@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "application.unidbg",
+      "type": "com.anjia.unidbgserver.config.UnidbgProperties",
+      "sourceType": "com.anjia.unidbgserver.config.UnidbgProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.unidbg.async",
+      "type": "java.lang.Boolean",
+      "description": "是否使用异步多线程",
+      "sourceType": "com.anjia.unidbgserver.config.UnidbgProperties"
+    },
+    {
+      "name": "application.unidbg.dynarmic",
+      "type": "java.lang.Boolean",
+      "description": "是否使用 DynarmicFactory",
+      "sourceType": "com.anjia.unidbgserver.config.UnidbgProperties"
+    },
+    {
+      "name": "application.unidbg.verbose",
+      "type": "java.lang.Boolean",
+      "description": "是否打印调用信息",
+      "sourceType": "com.anjia.unidbgserver.config.UnidbgProperties"
+    }
+  ],
+  "hints": []
+}

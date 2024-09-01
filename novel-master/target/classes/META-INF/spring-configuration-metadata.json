@@ -1,0 +1,107 @@
+{
+  "groups": [
+    {
+      "name": "novel.cors",
+      "type": "io.github.xxyopen.novel.core.config.CorsProperties",
+      "sourceType": "io.github.xxyopen.novel.core.config.CorsProperties"
+    },
+    {
+      "name": "novel.xss",
+      "type": "io.github.xxyopen.novel.core.config.XssProperties",
+      "sourceType": "io.github.xxyopen.novel.core.config.XssProperties"
+    },
+    {
+      "name": "spring.mail",
+      "type": "io.github.xxyopen.novel.core.config.MailProperties",
+      "sourceType": "io.github.xxyopen.novel.core.config.MailProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "novel.cors.allow-origins",
+      "type": "java.util.List<java.lang.String>",
+      "description": "允许跨域的域名.",
+      "sourceType": "io.github.xxyopen.novel.core.config.CorsProperties"
+    },
+    {
+      "name": "novel.file.upload.path",
+      "type": "java.lang.String",
+      "description": "上传文件目录."
+    },
+    {
+      "name": "novel.jwt.secret",
+      "type": "java.lang.String",
+      "description": "JWT 密钥."
+    },
+    {
+      "name": "novel.xss.enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否开启 XSS 过滤.",
+      "sourceType": "io.github.xxyopen.novel.core.config.XssProperties"
+    },
+    {
+      "name": "novel.xss.excludes",
+      "type": "java.util.List<java.lang.String>",
+      "description": "XSS 过滤排除链接.",
+      "sourceType": "io.github.xxyopen.novel.core.config.XssProperties"
+    },
+    {
+      "name": "spring.amqp.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether enable amqp or not.",
+      "defaultValue": false
+    },
+    {
+      "name": "spring.elasticsearch.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether enable elasticsearch or not."
+    },
+    {
+      "name": "spring.elasticsearch.ssl.verification-mode",
+      "type": "java.lang.String",
+      "description": "设置 ssl 的认证模式,如果该配置项为 none ,说明不需要认证,信任所有的 ssl 证书."
+    },
+    {
+      "name": "spring.mail.nickname",
+      "type": "java.lang.String",
+      "sourceType": "io.github.xxyopen.novel.core.config.MailProperties"
+    },
+    {
+      "name": "spring.mail.username",
+      "type": "java.lang.String",
+      "sourceType": "io.github.xxyopen.novel.core.config.MailProperties"
+    },
+    {
+      "name": "spring.shardingsphere.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether enable shardingsphere or not.",
+      "defaultValue": true
+    },
+    {
+      "name": "xxl.job.accessToken",
+      "type": "java.lang.String",
+      "description": "xxl-job accessToken."
+    },
+    {
+      "name": "xxl.job.admin.addresses",
+      "type": "java.lang.String",
+      "description": "调度中心部署根地址."
+    },
+    {
+      "name": "xxl.job.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether enable xxl-job or not."
+    },
+    {
+      "name": "xxl.job.executor.appname",
+      "type": "java.lang.String",
+      "description": "执行器 AppName."
+    },
+    {
+      "name": "xxl.job.executor.logpath",
+      "type": "java.lang.String",
+      "description": "执行器运行日志文件存储磁盘路径."
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47f4ceaf-ed7d-408e-8687-d4a68bba255c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dGh0Gqg2hTjvYLrCSKYa8T7tkq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/java_project/novel-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\templates" />
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\static\assets\js" />
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\static\assets\images" />
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\static\assets\css" />
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\java_project\manager-demo\src\main\resources\mapper\hero" />
+      <recent name="D:\code\java_project\manager-demo\src\main\java\com\mxy\mapper" />
+      <recent name="D:\code\java_project\manager-demo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="manager-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxy.ManagerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManagerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47f4ceaf-ed7d-408e-8687-d4a68bba255c" name="Changes" comment="" />
+      <created>1709640098618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709640098618</updated>
+      <workItem from="1709640099820" duration="4060000" />
+      <workItem from="1709723340757" duration="76000" />
+      <workItem from="1710155153372" duration="117000" />
+      <workItem from="1711195100608" duration="295000" />
+      <workItem from="1711542908894" duration="10286000" />
+      <workItem from="1711622826889" duration="5486000" />
+      <workItem from="1711704986102" duration="2610000" />
+      <workItem from="1711771113893" duration="7000" />
+      <workItem from="1712225237922" duration="11000" />
+      <workItem from="1712926262868" duration="5293000" />
+      <workItem from="1712971036108" duration="29458000" />
+      <workItem from="1713588831932" duration="4811000" />
+      <workItem from="1713665117908" duration="6383000" />
+      <workItem from="1713782301988" duration="1286000" />
+      <workItem from="1714055338240" duration="182000" />
+      <workItem from="1714056318861" duration="7000" />
+      <workItem from="1714133910726" duration="1031000" />
+      <workItem from="1714185638464" duration="38000" />
+      <workItem from="1714189203755" duration="8000" />
+      <workItem from="1714189288074" duration="97000" />
+      <workItem from="1714223551150" duration="47000" />
+      <workItem from="1714529392913" duration="1164000" />
+      <workItem from="1714613971458" duration="113000" />
+      <workItem from="1714620224476" duration="11000" />
+      <workItem from="1718801011466" duration="3969000" />
+      <workItem from="1719620536153" duration="25000" />
+      <workItem from="1724566818971" duration="2412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

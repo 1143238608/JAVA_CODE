@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mxy.mapper.LolMapper">
+    <resultMap id="lolMap" type="com.mxy.domian.LolRace" autoMapping="true">
+    </resultMap>
+    <select id="getLckTeamInfo" resultMap="lolMap">
+        select
+            *
+        from lol
+            <where>
+                district = 'LCK'
+                <if test="team != null and team != ''" >
+                    and (left_name like concat('%',#{team},'%') or right_name like concat('%',#{team},'%') )
+                </if>
+            </where>
+                 order by time desc
+    </select>
+</mapper>
